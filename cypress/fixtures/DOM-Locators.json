@@ -1,0 +1,16 @@
+{
+    "Header" : {
+        "Login" : ".nav-link", 
+        "Register" : ".nav-link"
+    },
+    "Register" : {
+         "FirstName" : "#first-name",
+         "LastName" : "#last-name",
+         "Email" : "#email",
+         "Password" : "#password",
+         "PasswordConfirmation" :"#password-confirmation",
+         "FormCheckInput" :".form-check-input",
+         "Submit" : ".btn"
+    } 
+ }
+ 
