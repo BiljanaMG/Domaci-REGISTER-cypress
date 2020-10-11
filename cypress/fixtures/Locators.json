@@ -1,0 +1,12 @@
+{
+    "Header" : {
+        "Login" : ".nav-link", 
+        "Register" : ".nav-link" 
+    },
+    "Login" : {
+         "Email" : "#email",
+         "Password" : "#password",
+         "Submit" : ".btn"
+    } 
+ }
+ 
